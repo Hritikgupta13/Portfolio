@@ -1,0 +1,23 @@
+[
+ 
+  {
+    "name": "BookMyShow Clone",
+    "desc": "BookMyShow clone built using Java Full stack",
+    "image": "bookmyshow",
+    "links": {
+      
+      "code": "https://github.com/Hritikgupta13/Bookmyshow_Clone"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Responsive Portfolio using html, css and javascript",
+    "image": "portfolio",
+   
+    "links": {
+     
+      "code": "https://github.com/Hritikgupta13/Portfolio"
+    }
+  }
+  
+]
